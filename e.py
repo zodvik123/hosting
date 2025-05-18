@@ -6,7 +6,7 @@ import signal
 import time
 import shutil
 
-API_TOKEN = '7574721300:AAGURzPCChSO0I4vmvjQCrw7R_4zLni8LLk'
+API_TOKEN = '7574721300:AAFu27bMIt-4TYo11tCh3MeNWlTFUgIFI3k'
 ADMIN_ID = 6353114118  # Replace with your Telegram user ID
 
 bot = telebot.TeleBot(API_TOKEN)
